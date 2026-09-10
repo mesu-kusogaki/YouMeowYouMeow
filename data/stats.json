@@ -1,0 +1,6 @@
+[
+  {"name":"나","games":16,"killer_count":4,"caught_count":3,"killer_rate":25,"caught_rate":75},
+  {"name":"별","games":15,"killer_count":7,"caught_count":2,"killer_rate":46.66666667,"caught_rate":28.57142857},
+  {"name":"린","games":14,"killer_count":3,"caught_count":1,"killer_rate":21.42857143,"caught_rate":33.33333333},
+  {"name":"세빈","games":5,"killer_count":0,"caught_count":0,"killer_rate":null,"caught_rate":null}
+]
