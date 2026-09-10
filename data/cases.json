@@ -1,0 +1,20 @@
+[
+  {"title":"시체와 온천","role":"임호선(편집자)","killer_me":"O","caught":"O","killer":"나","players":"별, 린, 윤서","theme":"mist","subtitle":"온천 여관","symbol":"♨","blurb":"유자 향이 감도는 밤, 욕탕 너머로 사건이 시작됐다."},
+  {"title":"교토 이세계 투어","role":"쓰치미카도 하루(음양사)","killer_me":"X","caught":"O","killer":"별","players":"별, 린, 윤서","theme":"lantern","subtitle":"이세계 교토","symbol":"⛩","blurb":"등불 아래 숨은 이세계의 흔적을 추적한다."},
+  {"title":"웬디, 어른이 되렴","role":"웬디","killer_me":"X","caught":"O","killer":"별","players":"별, 린, 윤서","theme":"storybook","subtitle":"어른이 된 동화","symbol":"✦","blurb":"동화책의 마지막 장을 넘기자 사건이 현실이 되었다."},
+  {"title":"안개가 떨어지는 고개","role":"치요(마을 처녀)","killer_me":"X","caught":"X","killer":"별","players":"별, 세빈, 윤서","theme":"fog","subtitle":"산악 마을","symbol":"☁","blurb":"고개를 덮은 안개가 모든 목격자를 침묵시켰다."},
+  {"title":"카나리아는 지저귀지 않는다","role":"아울","killer_me":"X","caught":"X","killer":"별","players":"별, 린, 세빈","theme":"theater","subtitle":"침묵한 무대","symbol":"✦","blurb":"막이 내린 뒤에도 무대 위에는 비밀이 남아 있었다."},
+  {"title":"시간을 달리는 트라이앵글","role":"캐시","killer_me":"O","caught":"O","killer":"나","players":"별, 린","theme":"clock","subtitle":"시간 여행","symbol":"◷","blurb":"시계가 가리키는 시간이 서로 다르다."},
+  {"title":"보랏못 리라이트","role":"봄이","killer_me":"X","caught":"X","killer":"린","players":"린","theme":"lake","subtitle":"수상한 호수","symbol":"◌","blurb":"보랏빛 수면 아래 무엇인가가 떠올랐다."},
+  {"title":"15호실","role":"기자","killer_me":"X","caught":"X","killer":"린","players":"별, 린","theme":"press","subtitle":"신문사 취재실","symbol":"▣","blurb":"특종을 쫓던 기자가 마지막으로 들어간 방."},
+  {"title":"송곳니의 대죄","role":"게오","killer_me":"X","caught":"X","killer":"-","players":"별","theme":"gothic","subtitle":"고딕 성당","symbol":"†","blurb":"오래된 석벽과 종소리 사이에 죄가 잠들어 있다."},
+  {"title":"숨겨진 이야기 H","role":"허주시","killer_me":"X","caught":"X","killer":"별","players":"별, 린, 세빈","theme":"archive","subtitle":"밀실 기록관","symbol":"▤","blurb":"봉인된 문서 하나가 오래된 사건을 되살린다."},
+  {"title":"개화, 꽃피우다","role":"이온화","killer_me":"X","caught":"X","killer":"별","players":"별, 린, 세빈","theme":"garden","subtitle":"봄의 정원","symbol":"❀","blurb":"꽃이 피는 계절, 감춰둔 진실도 함께 피어난다."},
+  {"title":"전설의 탐정' 살인 사건","role":"아키나가","killer_me":"X","caught":"O","killer":"린","players":"별, 린","theme":"detective","subtitle":"추리 사무소","symbol":"⌕","blurb":"전설이라 불리던 탐정의 마지막 사건."},
+  {"title":"보랏빛 안개","role":"주연","killer_me":"O","caught":"O","killer":"나","players":"별, 린","theme":"neon","subtitle":"네온 미스터리","symbol":"◈","blurb":"빛나는 도시에서 흔적은 색으로 변한다."},
+  {"title":"언노운","role":"GM","killer_me":"X","caught":"X","killer":"-","players":"별, 린","theme":"terminal","subtitle":"비밀 작전실","symbol":"◉","blurb":"이름도 목적도 없는 사건 파일이 도착했다."},
+  {"title":"수면에 떠오른 그림자","role":"아서(선장)","killer_me":"X","caught":"X","killer":"별","players":"별, 린","theme":"deepsea","subtitle":"심해 탐사선","symbol":"≈","blurb":"바다 아래에서 발견된 그림자는 무엇이었을까."},
+  {"title":"2명의 증언자","role":"B","killer_me":"X","caught":"X","killer":"-","players":"린","theme":"court","subtitle":"법정 기록실","symbol":"⚖","blurb":"두 명의 증언이 서로 다른 진실을 말한다."},
+  {"title":"J.모리아티의 암약","role":"레스트라드","killer_me":"O","caught":"X","killer":"나","players":"별, 린, 세빈","theme":"victorian","subtitle":"빅토리아 런던","symbol":"♜","blurb":"안개 낀 런던에서 모리아티의 흔적을 쫓는다."},
+  {"title":"탐정 시드 업다이크 KOBUSHI CLUB","role":"오니가시마 만게쓰","killer_me":"X","caught":"O","killer":"-","players":"린","theme":"tokyo","subtitle":"도쿄 야간 탐정국","symbol":"◆","blurb":"도시의 밤을 달리는 탐정국의 사건 기록."}
+]
